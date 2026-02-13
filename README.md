@@ -38,7 +38,7 @@ To help Jekyll with compiling and publishing Markdown files, files contain text 
 
 - [GitHub Pages Usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits)
 
-## Using the Exercise Files
+## Using the Files
 1. Create a new repo and add the exercise files for this lesson.
 
     Make sure all `*.png` files are moved into the `images` directory.
@@ -66,3 +66,4 @@ To help Jekyll with compiling and publishing Markdown files, files contain text 
 1. Wait for the workflow to complete.  Optionally, click into the build and deploy jobs to observe them while they are running.
 1. Note and select the URL displayed on the build job.
 1. View the deployed site.
+
